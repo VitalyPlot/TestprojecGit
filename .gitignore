@@ -1,4 +1,4 @@
 # Default ignored files
 .idea/
-        pom.xml
-        target/
+pom.xml
+target/
